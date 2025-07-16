@@ -1,2 +1,2 @@
 # dp-docdate
-Erfassungs-Datum automatisch dem Scan-Datum anpassen
+Erfassungs-Datum von importierten Dokumenten automatisch an deren Scan-Datum anpassen
